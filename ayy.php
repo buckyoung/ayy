@@ -3,7 +3,7 @@
 # Nayythan
 echo "ayy lmao\n";
 
-# dAYYvid aLAMOen
+# buck
 echo "ayy lmao\n";
-
-# Ur name here
+echo "my ebay password: %ClarissaExplainsItAllep.65";
+echo "my first country visited: Costa Rica";
